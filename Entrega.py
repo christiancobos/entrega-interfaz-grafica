@@ -5,4 +5,3 @@ sense= SenseHat()
 temp= sense.temp
 pre = sense.pressure
 hum= sense.humidity
-
